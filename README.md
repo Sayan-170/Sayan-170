@@ -50,6 +50,7 @@ I'm a passionate full-stack developer specialized in the MERN (MongoDB, Express,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sayan-170&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+![dino](https://raw.githubusercontent.com/ProgrammerGaurav/programmergaurav/master/images/dino.gif)
 ---
 
 ## 📫 Connect With Me
