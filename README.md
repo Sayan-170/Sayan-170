@@ -53,7 +53,7 @@ I'm a passionate full-stack developer specialized in the MERN (MongoDB, Express,
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sayan-170&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sayan-170&theme=tokyonight&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
